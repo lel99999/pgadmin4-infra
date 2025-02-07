@@ -1,0 +1,9 @@
+# Werkzeug>=0.15,<1.0
+# https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.5/pip/pgadmin4-4.5-py2.py3-none-any.whl
+#https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v7.8/pip/pgadmin4-7.8-py3-none-any.whl
+https://pgadmin-archive.postgresql.org/pgadmin4/v5.5/pip/pgadmin4-5.5-py3-none-any.whl
+#https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v8.3/pip/pgadmin4-8.3-py3-none-any.whl
+uwsgi==1.9.10
+Flask-SocketIO==5.4.*
+#uwsgi
+# todo: review uwsgi version
